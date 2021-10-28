@@ -1,4 +1,4 @@
-# OOP
+# BLOOD DONATION
 Objective : To develop a Blood donation application for  an NGO XYZ. 
 Why do XYZ is looking for a new application? 
 Disadvantages of the existing Manual Blood donation system:  1. Manual Process is too time consuming, often leads to error prone  results 
